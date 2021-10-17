@@ -10,8 +10,8 @@ public class PrimeiroPrograma {
         Gato gato = new Gato();
         System.out.println(gato);
 
-        livro livro1 = new Livro ( nome;: "Bem-vindo", numPaginas;: 300);
-        System.out.println(livro1);
+      /* livro livro1 = new Livro ( nome;: "Bem-vindo",  numPaginas:300);
+        System.out.println(livro1);*/
 
         /*int a = 5;
         int b = 3;
